@@ -118,3 +118,8 @@ int main() {
     cout << s << endl;
     return 0;
 }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/master
